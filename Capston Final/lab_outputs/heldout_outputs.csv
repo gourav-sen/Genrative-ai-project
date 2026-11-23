@@ -1,0 +1,65 @@
+topic,model,output,relevance_0_2,readability_0_2,usefulness_0_2,notes
+recursion,Base,"Use the recursion keyword to define a new type of recursion.
+
+Example:
+
+class Recursion { public: Recursion(int i) { return i; } public: Recursion(int i)",4,5,3,8
+recursion,Adapted,Write a function that takes a list of values and returns a list of values.,2,1,7,9
+matrices,Base,"Use the matrices to create a matrix of the same size as the input.
+
+The following matrix is a matrix of the same size as the input.
+
+The following matrix is a matrix of the same size as",4,5,3,8
+matrices,Adapted,Write a matrix and check the return value.,2,1,7,9
+binary search,Base,"Use the search box to find the search term you want to search for.
+
+Study tip: Use the search box to find the search term you want to search for.
+
+Study tip: Use the search box to",4,5,3,8
+binary search,Adapted,Use the search box at the top of the page to find the search term.,2,1,7,9
+trees,Base,"If you're looking for a good way to get a tree to grow, you can use the following methods:
+1. Use a tree-growing kit.
+2. Use a tree-growing kit that is easy to",4,5,3,8
+trees,Adapted,Use a tree as a base for your tree.,2,1,7,9
+hash tables,Base,"Use the hash table to find the most common hash tables.
+
+The hash table is a set of tables that are used to store the data in a database. The table is used to store the data in a database.",4,5,3,8
+hash tables,Adapted,Use the hash table to find the hash table for your table.,2,1,7,9
+derivatives,Base,"If you're looking for a way to make a profit, you might want to look at the derivatives market.
+
+Source: http://www.bibdsl.co.uk/w10-images/l",4,5,3,8
+derivatives,Adapted,Use a small amount of the money to buy a small amount of derivatives.,2,1,7,9
+big-O notation,Base,"Use the following notation to write the following:
+
+A = A + B
+
+A = A + B
+
+A = A + B
+
+A = A + B
+
+A = A + B",4,5,3,8
+big-O notation,Adapted,Write a small number in front of each letter and write the number in front of each letter.,2,1,7,9
+vectors,Base,"Use the following vector to create a vector of the same type.
+
+Example:
+
+vector<int> v = new Vector<int>();
+
+The vector is a vector of type int.
+
+Example",4,5,3,8
+vectors,Adapted,Use the vector to find the nearest point.,2,1,7,9
+database normalization,Base,"Use the ""normalize"" command to normalize a database.
+
+This is a very simple command to normalize a database. It is very simple to use.
+
+The normalize command is used to normalize",4,5,3,8
+database normalization,Adapted,"Use the table below to create a table with the following fields:
+
+Field Name Description Date of Publication Date of Publication Date of Publication Date of Publication Date of Publication Date of Publication Date of Publication Date of Publication Date of Publication",2,1,7,9
+Pythagoras theorem,Base,"Use the Pythagorean theorem to prove that the Pythagorean theorem is true.
+Study tip: Use the Pythagorean theorem to prove that the Pythagorean theorem is true.
+Study tip: Use the Pyth",4,5,3,8
+Pythagoras theorem,Adapted,Write down the theorem and write down the proof.,2,1,7,9

@@ -1,0 +1,113 @@
+{
+  "train": [
+    [
+      "graphs",
+      "Sketch a graph, then mark a path through three vertices."
+    ],
+    [
+      "Python loops",
+      "Trace a loop by writing the counter after each step."
+    ],
+    [
+      "fractions",
+      "Draw equal parts and label the fraction you shaded."
+    ],
+    [
+      "sets",
+      "Draw a Venn diagram and label the intersection."
+    ],
+    [
+      "sorting",
+      "Sort five values by hand and record each swap."
+    ],
+    [
+      "probability",
+      "List the outcomes of two coin tosses before counting."
+    ],
+    [
+      "stacks",
+      "Push three items on paper, then pop them and note the order."
+    ],
+    [
+      "queues",
+      "Line up five numbers and remove them from the front one by one."
+    ],
+    [
+      "linked lists",
+      "Draw boxes with arrows and redraw the arrows after inserting a node."
+    ],
+    [
+      "functions",
+      "Write a small function, then call it with two different inputs."
+    ],
+    [
+      "variables",
+      "Make a table of variable names and update the values after each line."
+    ],
+    [
+      "arrays",
+      "Write an array on paper and mark each index before reading values."
+    ],
+    [
+      "strings",
+      "Pick a short word and write out each character with its position."
+    ],
+    [
+      "dictionaries",
+      "Make a key and value table, then look up three keys by hand."
+    ],
+    [
+      "algebra",
+      "Solve one equation and check the answer by putting it back in."
+    ],
+    [
+      "percentages",
+      "Turn a percentage into a fraction first, then calculate the amount."
+    ],
+    [
+      "angles",
+      "Draw a triangle and label each angle before adding them up."
+    ],
+    [
+      "mean and median",
+      "Write five numbers in order, then find the middle and the average."
+    ],
+    [
+      "logic gates",
+      "Write a truth table for the gate and test each input pair."
+    ],
+    [
+      "SQL select",
+      "Write a small table on paper and pick out the rows your query would return."
+    ],
+    [
+      "binary numbers",
+      "Convert a small number to binary by repeatedly dividing by two."
+    ],
+    [
+      "exceptions",
+      "Write code that fails on purpose, then catch the error and print a message."
+    ],
+    [
+      "file handling",
+      "Create a small text file, read it back, and print each line."
+    ],
+    [
+      "recursion basics",
+      "Write the base case first, then trace two calls on paper."
+    ]
+  ],
+  "held_out": [
+    "recursion",
+    "matrices",
+    "binary search",
+    "trees",
+    "hash tables",
+    "derivatives",
+    "big-O notation",
+    "vectors",
+    "database normalization",
+    "Pythagoras theorem"
+  ],
+  "source": "Written by student for this lab; instructor approval pending/obtained (edit)."
+}
